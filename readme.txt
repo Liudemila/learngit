@@ -1,1 +1,2 @@
-git is a version control system
+China foreign affairs university
+git is distributed system
